@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1652063307 source:c:\users\admin\desktop\zuma\main.cpp
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	<time.h>
+	<math.h>
+	"Coord.h"
+	"Entity.h"
+	"BezierCurve.h"
+	"Stages.h"
+	"Button.h"
+	"Ball.h"
+	"Frog.h"
+	"LineOfBalls.h"
+
+1647829530 c:\users\admin\desktop\zuma\dlinkedlist.h
+	"Coord.h"
+
+1650126554 c:\users\admin\desktop\zuma\coord.h
+
+1652063288 source:c:\users\admin\desktop\zuma\lineofballs.cpp
+	<iostream>
+	<math.h>
+	<vector>
+	"Coord.h"
+	"Entity.h"
+	"Ball.h"
+	"LineOfBalls.h"
+
+1648035371 c:\users\admin\desktop\zuma\map.h
+	<SDL.h>
+	"Coord.h"
+
+1651849644 c:\users\admin\desktop\zuma\stages.h
+	<vector>
+	"Coord.h"
+
+1652063288 c:\users\admin\desktop\zuma\beziercurve.h
+	<SDL.h>
+	<vector>
+	<math.h>
+	"Coord.h"
+
+1652063288 source:c:\users\admin\desktop\zuma\frog.cpp
+	<iostream>
+	<math.h>
+	<SDL.h>
+	"Coord.h"
+	"Entity.h"
+	"Ball.h"
+	"Frog.h"
+
+1651294302 c:\users\admin\desktop\zuma\frog.h
+	<SDL.h>
+	<vector>
+	"Coord.h"
+	"Entity.h"
+	"Ball.h"
+
+1651846210 c:\users\admin\desktop\zuma\entity.h
+	<SDL.h>
+	"Coord.h"
+
+1651294302 c:\users\admin\desktop\zuma\ball.h
+	<SDL.h>
+	"Coord.h"
+	"Entity.h"
+
+1651294357 source:c:\users\admin\desktop\zuma\entity.cpp
+	<SDL.h>
+	"Coord.h"
+	"Entity.h"
+
+1652063289 source:c:\users\admin\desktop\zuma\ball.cpp
+	<iostream>
+	<math.h>
+	<SDL.h>
+	"Coord.h"
+	"Entity.h"
+	"Ball.h"
+
+1651951194 c:\users\admin\desktop\zuma\lineofballs.h
+	<SDL.h>
+	<vector>
+	"Coord.h"
+	"Entity.h"
+	"Ball.h"
+
+1650126554 source:c:\users\admin\desktop\zuma\coord.cpp
+	<math.h>
+	"Coord.h"
+
+1651848069 c:\users\admin\desktop\zuma\button.h
+	<SDL.h>
+	<SDL_ttf.h>
+	"Coord.h"
+	"Entity.h"
+
+1651955500 source:c:\users\admin\desktop\zuma\button.cpp
+	<SDL.h>
+	<SDL_ttf.h>
+	"Coord.h"
+	"Entity.h"
+	"Button.h"
+

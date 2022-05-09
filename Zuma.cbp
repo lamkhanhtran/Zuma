@@ -32,6 +32,20 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Ball.h" />
+		<Unit filename="BezierCurve.h" />
+		<Unit filename="Button.h" />
+		<Unit filename="Coord.h" />
+		<Unit filename="Entity.h" />
+		<Unit filename="Frog.h" />
+		<Unit filename="LineOfBalls.h" />
+		<Unit filename="Stages.h" />
+		<Unit filename="ball.cpp" />
+		<Unit filename="button.cpp" />
+		<Unit filename="coord.cpp" />
+		<Unit filename="entity.cpp" />
+		<Unit filename="frog.cpp" />
+		<Unit filename="lineofballs.cpp" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />
